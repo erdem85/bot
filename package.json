@@ -1,7 +1,7 @@
 {
- "name": "ritim-bot",
+ "name": "example-discord-bot",
   "version": "1.00",
-  "description": "eris & lavalink based turkish music bot.",
+  "description": "example eris bot",
   "main": "shard.js",
   "scripts": {
     "start": "node shard.js"

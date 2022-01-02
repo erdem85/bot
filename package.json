@@ -1,4 +1,5 @@
-  "name": "ritim-bot",
+{
+ "name": "ritim-bot",
   "version": "1.00",
   "description": "eris & lavalink based turkish music bot.",
   "main": "shard.js",
